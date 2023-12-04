@@ -29,3 +29,5 @@ Sometime before their eighth birthday, Eva gave Dante and Vergil each a half of 
 The Yamato is Vergil's trademark dark-forged katana appearing in Devil May Cry, Devil May Cry 3, Devil May Cry 4 and Devil May Cry 5. It is a legendary sword that was once wielded by his father Sparda,[2] who originally created it alongside the Sparda and Rebellion when the Dark Knight split his power into three pieces, and was named by him to embody a "god of death".[3] It was later left to Vergil as a keepsake.
 While the Rebellion can unify the human and demon halves of an individual, the Yamato can instead separate the two forces.
 <div class="tenor-gif-embed" data-postid="22541537" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/vergil-dmc5-dante-dmc-yamato-gif-22541537">Vergil Dmc5 GIF</a>from <a href="https://tenor.com/search/vergil-gifs">Vergil GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+# The End
