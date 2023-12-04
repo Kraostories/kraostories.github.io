@@ -1,1 +1,1 @@
-theme: Jekyll-theme-odin
+gem 'jekyll-theme-modernist', '~> 0.2.0'
